@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 80%;
+  height: 80vh;
+  /* background-color: royalblue; */
+  /* margin: 10vh auto; */
+  background-image: url(component/1.png);
+  background-size: cover;
+  margin-left:34vh ;
+  /* position: relative; */
+  /* border: 2px solid gray; */
+}
+.wrapper{
+  width: 80%;
+  height: 80vh;
+   /* background-color: rgb(221, 173, 84);  */
+  /* position: absolute; */
+  border: 2px solid gray;
+  margin: 10vh auto;
+  
+}
+.fr{
+  float: right;
+}
+.fl{
+  float: left;
+}
+.data{
+  width: 50%;
+  height: 50vh;
+  /* background-color: aqua; */
+}
+.result{
+  width: 50%;
+  height: 50vh;
+  /* background-color: red; */
+}
+.title{
+  width: 100%;
+  height: 20vh;
+  /* background-color: yellow; */
+  position: absolute;
+}
+.title h1{
+  position: relative;
+  top:18vh;
+  right: 44vh;
+  font-size: 64px;
+  
+}
+.image{
+  width: 50%;
+  height: 30vh;
+  /* background-color: green; */
+}
+.name{
+  width: 50%;
+  height: 30vh;
+  /* background-color: brown; */
+}
+.name p{
+  position: relative;
+  top: 51.5vh;
+  right: 80vh;
+  font-size: 24px;
+  color: white;
+}
+.image p{
+  position: relative;
+  top: 60.5vh;
+  right: 38vh;
+  font-size: 24px;
+  color: white;
+}
+#web p{
+  position: relative;
+  top: 64.5vh;
+  right: 38vh;
+  font-size: 24px;
+  color: white;
+}
+.name h1{
+  position: relative;
+  top:28vh;
+  left: 7vh;
+}
